@@ -95,6 +95,12 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.shadercrew.the-toon-shader.core": {
+      "version": "file:com.shadercrew.the-toon-shader.core",
+      "depth": 0,
+      "source": "embedded",
+      "dependencies": {}
+    },
     "com.unity.ai.navigation": {
       "version": "1.1.5",
       "depth": 2,
