@@ -22,6 +22,8 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Halftone_04_MellowBrown_TTS_RefMat
   m_Shader: {fileID: 4800000, guid: cdb1479f619aff740b0cea7a60a84201, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _SHADING_COLOR
   m_InvalidKeywords:
@@ -47,6 +49,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
